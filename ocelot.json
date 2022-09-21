@@ -1,7 +1,7 @@
 {
   "Routes": [
     {
-      "DownstreamPathTemplate": "/api/Users",
+      "DownstreamPathTemplate": "/api/Purchases",
       "DownstreamSchema": "https",
       "DownstreamHttpMethod": "GET",
       "RouteIsCaseSensitive": false,
